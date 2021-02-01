@@ -8,5 +8,6 @@ is limited by using a mutex. The producer will generate random numbers between 1
 
 #install
 
--make all
+-make all - executable will be in the bin folder.
+
 -make clean - delete binaries and obj files.
